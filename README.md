@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Sarode</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
 <img align="center" src="https://media.licdn.com/dms/image/v2/D5616AQGBJq4a5iSaRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709205441380?e=1733356800&v=beta&t=gVHFis_SHN-H9xDpDddCRO5kGxJfH-qd0Mq8Ej591oI" alt="coding" width="100%" >
 <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-sarode&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-sarode" /> </p>
